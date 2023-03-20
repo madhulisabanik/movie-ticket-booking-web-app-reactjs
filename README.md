@@ -29,3 +29,5 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 ![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/detailsPage.PNG)
 ![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/seatSelection.PNG)
 ![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/ticketSummary.PNG)
+![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/ticket.PNG)
+
