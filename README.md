@@ -7,7 +7,7 @@ Material-UI for UI components.
 
 ## Home page -
 
-![ScreenShot](https://raw.github.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenshots/HomePage.png)
+![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/HomePage.PNG)
 
 
 ## Run server in local
@@ -26,6 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 
 ## Screen Shots
-![ScreenShot](https://raw.github.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenshots/detailsPage.png)
-![ScreenShot](https://raw.github.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenshots/ticketSummary.png)
-![ScreenShot](https://raw.github.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenshots/ticket.png)
+![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/detailsPage.PNG)
+![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/seatSelection.PNG)
+![ScreenShot](https://raw.githubusercontent.com/madhulisabanik/movie-ticket-booking-web-app-reactjs/main/projectScreenShots/ticketSummary.PNG)
